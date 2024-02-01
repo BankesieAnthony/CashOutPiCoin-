@@ -1,4 +1,4 @@
-Nothing better than knowing how to manage, store and access you digital assets
+Nothing better than knowing how to manage, store and access you digital assets.
 Creating a cryptocurrency from scratch is a complex task that requires a deep understanding of blockchain technology, cryptography, and programming languages such as C++. Here is a high-level overview of the steps involved in creating a cryptocurrency using C++:
 
 1. Define the requirements and specifications: Determine the goals and features of your cryptocurrency, such as supply limit, consensus algorithm, token standard, transaction speed, and security measures.
