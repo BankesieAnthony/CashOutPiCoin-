@@ -1,1 +1,1 @@
-Nothing better than knowing how to manage, store are access you digital assets
+Nothing better than knowing how to manage, store and access you digital assets
